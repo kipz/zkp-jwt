@@ -1,0 +1,4 @@
+{
+  "go.testTimeout": "5m",
+  "go.coverOnTestPackage": false
+}
